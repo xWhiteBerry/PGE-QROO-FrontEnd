@@ -1,45 +1,22 @@
-# fusion-vue-tailwind-starter
+# PGE-QROO-FrontEnd
 
-This template should help get you started developing with Vue 3 in Vite.
+Sistema de Gestión energética (PGE QROO)
+Este sistema se encargará de gestionar, analizar, predecir
+y generar reportes acerca del consumo energético, además, de
+poder ayudar a las diferentes dependencias a registrar y
+mejorar el ajuste de gastos.
 
-## Recommended IDE Setup
+## Elaboración del frontEnd
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+En este aparado se desarrollará el front del sistema. La
+Tecnología que usaremos para desarrollar este sistema
+serán Vue para la creación de las UI de usuario y
+tailwind css para la implementación del diseño de la
+página.
 
-## Type Support for `.vue` Imports in TS
+Proyecto elaborado por:
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Tox Dzul Omar
+- Chi Barahona Josué Daniel
+- Góngora Castillo Manuel Ivan
+- Cecilio Canul Jesus Manuel
